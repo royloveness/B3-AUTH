@@ -1,0 +1,13 @@
+cookies = {
+    'cf_clearance': 't6xKn4KeL4cyGH9Y_B.yQXnasgVm5SR9LHC5to_bwVc-1761779846-1.2.1.1-zxtjnalAz5SGvyjWndUE3tIR3oCg78udXt9ugtDchtQ0Klfl7EwGU9rdB2VIV36.Ibx7VkA7YUYSISzcK_sCJM2BbMEp2zavK0Od8A2ZTYBBpZm5QkhX.b_17GduaZyJR_p..Q_pgtezU6ScyttJWhuz.FywN5f.yoWi5jckvF3BOUOYll9oZMSJbZTlFpJtKPe.TSeOGOunDzA5oVkivYbNO03liOnGTTN_eR79EV0',
+    'sbjs_migrations': '1418474375998%3D1',
+    'sbjs_current_add': 'fd%3D2025-10-29%2023%3A17%3A33%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.accurategelpacks.com%2Fmy-account%2F%7C%7C%7Crf%3Dhttps%3A%2F%2Fwww.accurategelpacks.com%2Fmy-account%2F%3F__cf_chl_tk%3DKW6yeKRrYnY4nrHnqLA1CibjMXJc4y_ymM90LNBAUV0-1761779838-1.0.1.1-kU8a1kBVRpTCDc3DlrObBvkMHJX1H0a42B8e8mxfEoc',
+    'sbjs_first_add': 'fd%3D2025-10-29%2023%3A17%3A33%7C%7C%7Cep%3Dhttps%3A%2F%2Fwww.accurategelpacks.com%2Fmy-account%2F%7C%7C%7Crf%3Dhttps%3A%2F%2Fwww.accurategelpacks.com%2Fmy-account%2F%3F__cf_chl_tk%3DKW6yeKRrYnY4nrHnqLA1CibjMXJc4y_ymM90LNBAUV0-1761779838-1.0.1.1-kU8a1kBVRpTCDc3DlrObBvkMHJX1H0a42B8e8mxfEoc',
+    'sbjs_current': 'typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cmtke%3D%28none%29',
+    'sbjs_first': 'typ%3Dtypein%7C%7C%7Csrc%3D%28direct%29%7C%7C%7Cmdm%3D%28none%29%7C%7C%7Ccmp%3D%28none%29%7C%7C%7Ccnt%3D%28none%29%7C%7C%7Cid%3D%28none%29%7C%7C%7Ctrm%3D%28none%29%7C%7C%7Cmtke%3D%28none%29',
+    'sbjs_udata': 'vst%3D1%7C%7C%7Cuip%3D%28none%29%7C%7C%7Cuag%3DMozilla%2F5.0%20%28Linux%3B%20Android%2010%3B%20K%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F139.0.0.0%20Mobile%20Safari%2F537.36',
+    'mtk_src_trk': '%7B%22type%22%3A%22typein%22%2C%22url%22%3A%22https%3A%2F%2Fwww.accurategelpacks.com%2Fmy-account%2F%3F__cf_chl_tk%3DKW6yeKRrYnY4nrHnqLA1CibjMXJc4y_ymM90LNBAUV0-1761779838-1.0.1.1-kU8a1kBVRpTCDc3DlrObBvkMHJX1H0a42B8e8mxfEoc%22%2C%22mtke%22%3A%22(none)%22%2C%22utm_campaign%22%3A%22(none)%22%2C%22utm_source%22%3A%22(direct)%22%2C%22utm_medium%22%3A%22(none)%22%2C%22utm_content%22%3A%22(none)%22%2C%22utm_id%22%3A%22(none)%22%2C%22utm_term%22%3A%22(none)%22%2C%22session_entry%22%3A%22https%3A%2F%2Fwww.accurategelpacks.com%2Fmy-account%2F%22%2C%22session_start_time%22%3A%222025-10-29%2023%3A17%3A33%22%2C%22session_pages%22%3A%221%22%2C%22session_count%22%3A%221%22%7D',
+    'wordpress_logged_in_6df0c8871ecce38368eaa7b73ab92b24': 'anabel5631%7C1762989535%7Ceh53nFmLkMbCy1w3mebgosiqx46rlnQNLy5uWk9nMes%7C1d85fb8a70faea3874af2478ab940c46114d328ecc012c099ccc4c46b4fa6e8b',
+    'mywishlist_email': 'anabel5631%40tiffincrane.com',
+    'sbjs_session': 'pgs%3D6%7C%7C%7Ccpg%3Dhttps%3A%2F%2Fwww.accurategelpacks.com%2Fmy-account%2Fpayment-methods%2F',
+}

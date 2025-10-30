@@ -13,7 +13,7 @@ ADMIN_ID = 6019641184  # Replace with your Telegram user ID (int)
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
-AUTHORIZED_USERS = {}
+AUTHORIZED_USERS = {6019641184}
 
 # ---------------- Helper Functions ---------------- #
 
